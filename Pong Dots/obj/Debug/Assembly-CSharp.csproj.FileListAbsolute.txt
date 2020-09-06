@@ -1,0 +1,2 @@
+C:\Users\iagof\Desktop\Archivos Telecomunicaciones\TFG\Proyectos\Pong Dots\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\iagof\Desktop\Archivos Telecomunicaciones\TFG\Proyectos\Pong Dots\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
